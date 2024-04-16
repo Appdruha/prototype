@@ -10,10 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@gravity-ui/date-components": "^2.3.0",
+    "@gravity-ui/date-utils": "^2.3.0",
+    "@gravity-ui/uikit": "^6.10.2",
+    "axios": "^1.6.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.51.3"
   },
   "devDependencies": {
+    "@gravity-ui/components": "^3.5.0",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
